@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <rect width="32" height="32" rx="6" fill="url(#gradient)"/>
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Envelope -->
+  <path d="M8 11.5C8 10.6716 8.67157 10 9.5 10H22.5C23.3284 10 24 10.6716 24 11.5V12.2L16 16.5L8 12.2V11.5Z" fill="white" opacity="0.95"/>
+  <path d="M8 13.5V20.5C8 21.3284 8.67157 22 9.5 22H22.5C23.3284 22 24 21.3284 24 20.5V13.5L16.4 17.9C16.15 18.0333 15.85 18.0333 15.6 17.9L8 13.5Z" fill="white" opacity="0.95"/>
+  
+  <!-- Heart -->
+  <g transform="translate(12, 13)">
+    <path d="M4 1.5C2.8 1.5 1.5 2.3 1.5 3.8C1.5 6.5 4 8 4 8C4 8 6.5 6.5 6.5 3.8C6.5 2.3 5.2 1.5 4 1.5Z" fill="#ef4444" stroke="white" stroke-width="0.5"/>
+  </g>
+</svg>
