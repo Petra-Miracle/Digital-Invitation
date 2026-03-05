@@ -1,0 +1,9 @@
+{
+  "buildCommand": "cd 'Undangan Digital' && npm install && npm run build",
+  "outputDirectory": "Undangan Digital/dist",
+  "installCommand": "cd 'Undangan Digital' && npm install",
+  "devCommand": "cd 'Undangan Digital' && npm run dev",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/" }
+  ]
+}
