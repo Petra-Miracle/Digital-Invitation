@@ -16,12 +16,6 @@ const skills = [
 export default function AboutPage() {
   const { t } = useTranslation();
 
-  const highlights = [
-    { number: "3+", label: t("about.highlights.experience") },
-    { number: "100+", label: t("about.highlights.clients") },
-    { number: "500+", label: t("about.highlights.projects") },
-  ];
-
   return (
     <section id="tentang" className="bg-slate-50 dark:bg-slate-950 py-20 px-4 sm:px-6 lg:px-8">
       <div className="max-w-7xl mx-auto">
