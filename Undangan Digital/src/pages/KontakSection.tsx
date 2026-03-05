@@ -23,7 +23,6 @@ export default function KontakSection() {
     {
       id: "whatsapp",
       label: "WhatsApp",
-      value: "0812-3692-7067",
       description: t("kontak.whatsappDesc"),
       href: "https://wa.me/6281236927067",
       gradient: "from-green-500 to-green-600",
@@ -42,7 +41,6 @@ export default function KontakSection() {
     {
       id: "email",
       label: "Email",
-      value: "petra221106@gmail.com",
       description: t("kontak.emailDesc"),
       href: "mailto:petra221106@gmail.com",
       gradient: "from-blue-500 to-blue-700",
@@ -57,7 +55,6 @@ export default function KontakSection() {
     {
       id: "instagram",
       label: "Instagram",
-      value: "@petdailly_",
       description: t("kontak.instagramDesc"),
       href: "https://instagram.com/petdailly_",
       gradient: "from-pink-500 via-rose-500 to-violet-600",
@@ -126,7 +123,6 @@ export default function KontakSection() {
                   {c.label}
                 </p>
                 <p className="text-sm font-medium text-slate-600 dark:text-slate-300 mt-0.5 break-all">
-                  {c.value}
                 </p>
                 <p className="text-xs text-slate-400 dark:text-slate-500 mt-2 leading-relaxed">
                   {c.description}
