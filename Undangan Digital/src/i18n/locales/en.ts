@@ -107,7 +107,7 @@ const en = {
       notePlaceholder:
         "e.g. wedding on December 20, 2025, rustic theme, need digital envelope feature...",
       quickReply: "Quick reply, usually within minutes",
-      emailDesc: "petra221106@gmail.com",
+      emailDesc: "email:rivaldy.adoe@gmail.com"
     },
   },
   kontak: {

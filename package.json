@@ -1,4 +1,10 @@
 {
+  "scripts": {
+    "dev": "cd \"Undangan Digital\" && npm run dev",
+    "build": "cd \"Undangan Digital\" && npm run build",
+    "preview": "cd \"Undangan Digital\" && npm run preview",
+    "lint": "cd \"Undangan Digital\" && npm run lint"
+  },
   "dependencies": {
     "lucide-react": "^0.577.0"
   }
