@@ -37,9 +37,8 @@ const CheckIcon = () => (
   </svg>
 );
 
-const WHATSAPP_NUMBER = "081236927067";
-const EMAIL = "petra221106@gmail.com";
-
+const WHATSAPP_NUMBER = "081353030694";
+const EMAIL = "rivaldy.adoe@gmail.com";
 export default function PricingPage() {
   const { t } = useTranslation();
   const { isOpen, onOpen, onClose } = useDisclosure();
@@ -329,7 +328,7 @@ export default function PricingPage() {
                       WhatsApp
                     </p>
                     <p className="text-xs text-slate-500 dark:text-slate-400 mt-0.5">
-                      0812-3692-7067 · {t("pricing.modal.quickReply")}
+                      {WHATSAPP_NUMBER} · {t("pricing.modal.quickReply")}
                     </p>
                   </div>
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="w-4 h-4 text-slate-400 group-hover:text-green-500 transition-colors">

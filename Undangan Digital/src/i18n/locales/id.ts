@@ -107,7 +107,7 @@ const id = {
       notePlaceholder:
         "Contoh: acara pernikahan tanggal 20 Desember 2025, tema rustic, butuh fitur amplop digital...",
       quickReply: "Balas cepat, biasanya dalam hitungan menit",
-      emailDesc: "petra221106@gmail.com",
+      emailDesc: "rivaldy.adoe@gmail.com",
     },
   },
   kontak: {
