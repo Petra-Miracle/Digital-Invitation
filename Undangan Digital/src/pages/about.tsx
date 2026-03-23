@@ -50,7 +50,7 @@ export default function AboutPage() {
             <div className="relative w-full max-w-md">
               <div className="relative rounded-3xl overflow-hidden border border-blue-200 dark:border-blue-900/40 shadow-2xl shadow-blue-200/50 dark:shadow-blue-950/50 bg-white dark:bg-slate-900 min-h-[420px] flex items-center justify-center">
                 <img
-                  src="/img/ALDY.jpeg"
+                  src="/img/About me.jpeg"
                   alt="Foto Developer"
                   className="w-full h-full object-cover absolute inset-0" style={{ objectPosition: "center top" }}
                   onError={(e) => {

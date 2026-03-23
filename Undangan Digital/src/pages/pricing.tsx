@@ -38,7 +38,7 @@ const CheckIcon = () => (
 );
 
 const WHATSAPP_NUMBER = "081353030694";
-const EMAIL = "rivaldy.adoe@gmail.com";
+const EMAIL = "petra221106@gmail.com";
 export default function PricingPage() {
   const { t } = useTranslation();
   const { isOpen, onOpen, onClose } = useDisclosure();
