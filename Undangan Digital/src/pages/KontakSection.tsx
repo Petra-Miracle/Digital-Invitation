@@ -24,7 +24,7 @@ export default function KontakSection() {
       id: "whatsapp",
       label: "WhatsApp",
       description: t("kontak.whatsappDesc"),
-      href: "https://wa.me/081353030694",
+      href: "https://wa.me/081236927067",
       gradient: "from-green-500 to-green-600",
       shadow: "shadow-green-900/20",
       border: "border-green-200 dark:border-green-900/40",

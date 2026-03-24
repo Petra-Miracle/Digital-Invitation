@@ -37,7 +37,7 @@ const CheckIcon = () => (
   </svg>
 );
 
-const WHATSAPP_NUMBER = "081353030694";
+const WHATSAPP_NUMBER = "081236927067";
 const EMAIL = "petra221106@gmail.com";
 export default function PricingPage() {
   const { t } = useTranslation();

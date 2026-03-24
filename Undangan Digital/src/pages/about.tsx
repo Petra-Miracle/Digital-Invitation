@@ -75,7 +75,7 @@ export default function AboutPage() {
           {/* ── Info Column ── */}
           <div>
             <h3 className="text-3xl font-bold text-slate-900 dark:text-white">
-              Rivaldi Christian Adoe
+              Petra Miracle ME Lenggu
             </h3>
             <p className="text-blue-600 dark:text-blue-400 font-medium mt-1">
               {t("about.role")}
